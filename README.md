@@ -2,10 +2,8 @@
 <h3 align="center">Wireless × AI Researcher — LLM Agents for Next-Gen Networks (5G/6G · O-RAN)</h3>
 
 <p align="center">
-  <a href="https://geonkim.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=aboutdotme&logoColor=white"></a>
   <a href="https://CorbinKim.github.io"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=hugo&logoColor=white"></a>
   <a href="https://linkedin.com/in/corbinkim"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://youtube.com/@UClv7hh6WL_rMNAQ4iLevELw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"></a>
   <a href="mailto:gkim26@ncsu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
