@@ -45,44 +45,4 @@ My work sits at the intersection of **multi-agent LLMs, O-RAN, and cloud-native 
 
 <sub>🔎 Full list & preprints → [Portfolio](https://geonkim.netlify.app/) · [Google Scholar](#)</sub>
 
----
 
-### 🛠️ Tech Stack
-
-**Languages & ML**
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**LLM / Agents**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Cloud-Native & Infra**
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![O-RAN](https://img.shields.io/badge/O--RAN_SC-0A66C2?style=for-the-badge&logo=alibabadotcom&logoColor=white)
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CorbinKim&show_icons=true&theme=city_lights&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CorbinKim&theme=city_lights&hide_border=true&layout=compact&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CorbinKim&theme=city_lights&hide_border=true" />
-</div>
-
----
-
-<p align="center"><i>“Building networks that think.”</i></p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CorbinKim&style=flat&color=0077B5" alt="profile views" />
-</p>
