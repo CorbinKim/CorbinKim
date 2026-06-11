@@ -40,7 +40,7 @@ My work sits at the intersection of **multi-agent LLMs, O-RAN, and cloud-native 
 
 | Year | Venue | Title |
 |------|-------|-------|
-| 2026 | **IEEE GLOBECOM** (submitted) | *TelcoAgent: LLM Multi-Agent Framework for Telecom Network Automation* |
+| 2026 | **IEEE GLOBECOM** (submitted) | *TelcoAgent: A Scalable 5G Multi-KPM Forecasting With 3GPP-Grounded Explainability* |
 | 2026 | Journal (in progress) | Follow-up work on agent-based RAN automation |
 
 <sub>🔎 Full list & preprints → [Google Scholar](#)</sub>
