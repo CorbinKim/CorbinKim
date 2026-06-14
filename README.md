@@ -20,7 +20,6 @@ My work sits at the intersection of **multi-agent LLMs, O-RAN, and cloud-native 
 - 🤖 **LLM multi-agent systems** for network operation & automation (TelcoAgent)
 - 📡 **O-RAN / 6G** — RAN intelligence, traffic offloading, energy-efficient networks
 - 📈 **Time-series forecasting** for traffic & resource prediction
-- 🧠 **RL frameworks** for closed-loop network control
 
 ---
 
