@@ -26,7 +26,6 @@ My work sits at the intersection of **multi-agent LLMs, O-RAN, and cloud-native 
 ### 🔬 Currently Working On
 
 - 🧪 Developing **TelcoAgent** — an LLM-agent framework for autonomous telecom network management
-- 🌐 Active **open-source contributor at O-RAN Software Community (O-RAN SC)**
 - 🎓 **PhD researcher @ North Carolina State University (NCSU)** — *incoming Fall 2026*
 - ✍️ Writing paper reviews & research notes on [my blog](https://CorbinKim.github.io)
 - 🤝 Open to collaboration on **Generative AI for O-RAN** and **LLM-driven network autonomy**
