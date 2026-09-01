@@ -54,4 +54,4 @@ My work is part of the **FALCON project**, where I explore the development of **
 | 2026 | **IEEE GLOBECOM** (accepted) | *TelcoAgent: Scalable 5G Multi-KPI Forecasting with 3GPP-Grounded Explainability* |
 | 2026 | Journal (in progress) | Follow-up work on agent-based RAN automation |
 
-<sub>🔎 Full list and preprints → [Google Scholar](#)</sub>
+<sub>🔎 Full list and preprints → [Google Scholar](https://scholar.google.com/citations?user=Em91UlMAAAAJ&hl=ko&authuser=1)</sub>
