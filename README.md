@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Corbin Kim 👋</h1>
 
 <h3 align="center">
-  Wireless Communications Researcher — Open RAN Intelligent Controllers for UAV-Assisted Connectivity
+  Wireless Communications Researcher
 </h3>
 
 <p align="center">
