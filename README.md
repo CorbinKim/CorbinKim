@@ -32,7 +32,6 @@ My work is part of the **FALCON project**, where I explore the development of **
 - 🪞 **Digital twin integration for wireless networks**
 - ⚙️ **Intelligent and autonomous network control**
 - 🤖 **LLM-agent systems for telecom networks**  
-  *(previous research interest)*
 
 ---
 
